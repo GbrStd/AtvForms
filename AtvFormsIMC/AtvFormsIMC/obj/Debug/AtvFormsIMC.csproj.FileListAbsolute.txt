@@ -1,0 +1,11 @@
+C:\Users\logatti\source\repos\AtvFormsIMC\AtvFormsIMC\bin\Debug\AtvFormsIMC.exe.config
+C:\Users\logatti\source\repos\AtvFormsIMC\AtvFormsIMC\bin\Debug\AtvFormsIMC.exe
+C:\Users\logatti\source\repos\AtvFormsIMC\AtvFormsIMC\bin\Debug\AtvFormsIMC.pdb
+C:\Users\logatti\source\repos\AtvFormsIMC\AtvFormsIMC\obj\Debug\AtvFormsIMC.csproj.AssemblyReference.cache
+C:\Users\logatti\source\repos\AtvFormsIMC\AtvFormsIMC\obj\Debug\AtvFormsIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\logatti\source\repos\AtvFormsIMC\AtvFormsIMC\obj\Debug\AtvFormsIMC.Form1.resources
+C:\Users\logatti\source\repos\AtvFormsIMC\AtvFormsIMC\obj\Debug\AtvFormsIMC.Properties.Resources.resources
+C:\Users\logatti\source\repos\AtvFormsIMC\AtvFormsIMC\obj\Debug\AtvFormsIMC.csproj.GenerateResource.cache
+C:\Users\logatti\source\repos\AtvFormsIMC\AtvFormsIMC\obj\Debug\AtvFormsIMC.csproj.CoreCompileInputs.cache
+C:\Users\logatti\source\repos\AtvFormsIMC\AtvFormsIMC\obj\Debug\AtvFormsIMC.exe
+C:\Users\logatti\source\repos\AtvFormsIMC\AtvFormsIMC\obj\Debug\AtvFormsIMC.pdb

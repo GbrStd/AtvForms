@@ -1,0 +1,10 @@
+C:\Users\logatti\source\repos\AtvFormsEq\AtvFormsEq\obj\Debug\AtvFormsEq.csproj.AssemblyReference.cache
+C:\Users\logatti\source\repos\AtvFormsEq\AtvFormsEq\obj\Debug\AtvFormsEq.csproj.SuggestedBindingRedirects.cache
+C:\Users\logatti\source\repos\AtvFormsEq\AtvFormsEq\obj\Debug\AtvFormsEq.Properties.Resources.resources
+C:\Users\logatti\source\repos\AtvFormsEq\AtvFormsEq\obj\Debug\AtvFormsEq.csproj.GenerateResource.cache
+C:\Users\logatti\source\repos\AtvFormsEq\AtvFormsEq\obj\Debug\AtvFormsEq.csproj.CoreCompileInputs.cache
+C:\Users\logatti\source\repos\AtvFormsEq\AtvFormsEq\bin\Debug\AtvFormsEq.exe.config
+C:\Users\logatti\source\repos\AtvFormsEq\AtvFormsEq\bin\Debug\AtvFormsEq.exe
+C:\Users\logatti\source\repos\AtvFormsEq\AtvFormsEq\bin\Debug\AtvFormsEq.pdb
+C:\Users\logatti\source\repos\AtvFormsEq\AtvFormsEq\obj\Debug\AtvFormsEq.exe
+C:\Users\logatti\source\repos\AtvFormsEq\AtvFormsEq\obj\Debug\AtvFormsEq.pdb
